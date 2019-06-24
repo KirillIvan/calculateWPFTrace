@@ -1,0 +1,15 @@
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\bin\Debug\CalculateTraceWPF.exe.config
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\bin\Debug\CalculateTraceWPF.exe
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\bin\Debug\CalculateTraceWPF.pdb
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\CalculateTraceWPF.csprojAssemblyReference.cache
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\MainWindow.g.cs
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\App.g.cs
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\CalculateTraceWPF_MarkupCompile.cache
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\CalculateTraceWPF_MarkupCompile.lref
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\MainWindow.baml
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\CalculateTraceWPF.g.resources
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\CalculateTraceWPF.Properties.Resources.resources
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\CalculateTraceWPF.csproj.GenerateResource.cache
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\CalculateTraceWPF.csproj.CoreCompileInputs.cache
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\CalculateTraceWPF.exe
+D:\ПапкаДляТехникума\ПрактикаWPF\CalculateTraceWPF\CalculateTraceWPF\obj\Debug\CalculateTraceWPF.pdb
